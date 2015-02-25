@@ -1,6 +1,6 @@
 <?php $pagina="cv"; @require_once("structure_top.php");
 
-	@require_once("class.cv2.php");
+	@require_once("class.cv.php");
 	$cv = new curriculmVitae();
 	$cv->templateAdd(0, "<header>%s</header>");
 	$cv->templateAdd(1, "<span class='cv_skill'>%s</span>%s<br />");
