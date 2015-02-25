@@ -6,3 +6,7 @@ imgs
 *.bmp
 *.pdf
 *.psd
+management.php
+management_article_new.php
+management_article_old.php
+management_queries.php
