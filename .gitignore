@@ -1,0 +1,8 @@
+!.gitignore
+audio
+imgs
+*.jpg
+*.png
+*.bmp
+*.pdf
+*.psd
