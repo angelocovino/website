@@ -12,7 +12,7 @@ audio{display:inline-block; width:100%;}
 .page_cv a:hover {color:white;}
 
 /* PAGE PORTFOLIO */
-.page_portfolio a {position:relative; display:block;}
+.page_portfolio .p_img a {position:relative; display:block;}
 .img_arrow {
 	position:absolute;
 	z-index:150;
@@ -32,7 +32,7 @@ audio{display:inline-block; width:100%;}
 	transition:opacity 0.5s ease;
 }
 .img_arrow_zero_opacity {opacity:1;}
-.page_portfolio a img {
+.page_portfolio .p_img a img {
 	position:relative;
 	z-index:100;
 	margin:0px 0px !important;

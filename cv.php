@@ -69,6 +69,9 @@
 	$cv->entryAddLastSection(-1, array("Polite, confident, analytical, adaptable, quick learner."));
 	$cv->entryAddLastSection(-1, array("In my free time I enjoy learning new programming languages."));
 	
+	$cv->sectionAdd("last-stored cv [jpg]");
+	$cv->entryAddLastSection(-1, array("<a target='_blank' href='CV.jpg'>21 February 2015</a>"));
+	
 	//$cv->sectionAdd("availability");
 	//$cv->entryAddLastSection(-1, array("Available immediately."));
 ?>
