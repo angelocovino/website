@@ -3,7 +3,7 @@
 		<article>
 			<header>web developer in london</header>
 			<p>
-				You can find my <span class="relevant_text">Portfolio</span>, my <span class="relevant_text">Curriculum Vitae</span> and something <span class="relevant_text">About me</span> in this website.
+				Here you can find a lot of information, my <span class="relevant_text"><a href="portfolio">Portfolio</a></span>, <span class="relevant_text"><a href="cv">Curriculum Vitae</a></span> and something <span class="relevant_text"><a href="about">About me</a></span>.
 			</p>
 			<p>
 				<img src="imgs/london.jpg">

@@ -24,6 +24,7 @@
 			</section>
 			<header>Angelo Covino</header>
 			<p>
+				<img src="imgs/angeloBN.jpg" style="margin:0 0 10px 20px; width:50%; float:right;" />
 				Born in Naples (Italy), I've studied Computer Science in Naples but I've not finished it yet, because I felt the needing of something else. So I've arrived in London in December 2014 to start a awesome experience.<br />
 				<br />
 				Born with a genuine passion in what I do, I've started when i was just 10 years old with HTML4 thanks to a stranger. I still remember how proud I was when I saw my first 'Hello World!'. I know that is the moment I realized it was my real passion.<br />So that's been my first approach to the programming world, and it's still the same.<br />
@@ -32,12 +33,13 @@
 				<span class="relevant_text">I'm currently studying english</span> at Westminster Kingsway College in Victoria and <span class="relevant_text">I'm also working as Freelance Web Developer</span><br />
 				I wrote, and I am still writing, something about my lessons on this site.<br />
 				<br />
-				You can find my <span class="relevant_text">Curriculum Vitae</span> and <span class="relevant_text">examples of coding</span> at the bottom of this page.<br />
+				Here you can find my <span class="relevant_text"><a href="cv">Curriculum Vitae</a></span> and <span class="relevant_text"><a href="codingexamples">examples of coding</a></span><br />
 				<br />
 				If you have a project tell me about it, <span class="relevant_text tocontacts">contact me!</span><br />
 				<br />
 				<img src="imgs/napoli.jpg" alt="Napoli, Italy" />
 			</p>
+			<!--
 			<header>Cinema, Movies &amp; Actors</header>
 			<p>
 				First of all I'm a very big fan of Quentin Tarantino.<br />
@@ -83,6 +85,7 @@
 			<p>
 				<img src="imgs/460245_10150603515675741_1381846124_o1.jpg" alt="Amy Winehouse" />
 			</p>
+			-->
 		</article>
 	</section>
 <?php @require_once("structure_bottom.php"); ?>

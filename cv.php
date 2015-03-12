@@ -35,14 +35,16 @@
 	$cv->entryAddAuto(array("IDE", "Visual Studio, CodeBlock, NetBeans"));
 	$cv->entryAddAuto(array("Data Structure", "List, Tree, BinaryTree, BinarySearchTree (AVL, Red&amp;Black), Graph (Adjacency list/matrix)"));
 	$cv->entryAddBlankRow();
-	$cv->entryAddAuto(array("Web", "HTML5 (<a target='_blank' href='http://www.w3.org/TR/xhtml1/'>XHTML standard</a>), XML, <a target='_blank' href='http://ogp.me'>OGP</a>, CSS3, ASP.NET C#, PHP, JavaScript, JQuery<!--, AJAX-->, JSON, <a target='_blank' href='http://www.w3.org/TR/WCAG20/'>WCAG</a> knowledge, SEO knowledge"));
+	$cv->entryAddAuto(array("Web", "HTML5 (<a target='_blank' href='http://www.w3.org/TR/xhtml1/'>XHTML standard</a>), XML, <a target='_blank' href='http://ogp.me'>OGP</a>, CSS3, ASP.NET C#, PHP, JavaScript, JQuery, JSON, <a target='_blank' href='http://www.w3.org/TR/WCAG20/'>WCAG</a> knowledge, SEO knowledge"));
+	// AJAX
 	$cv->entryAddAuto(array("Framework Web", "AngularJS (MVC, MVW, MVVM)"));
 	$cv->entryAddAuto(array("RDBMS", "MySQL, MySQL Workbench, Microsoft SQL Server, Oracle Database"));
 	$cv->entryAddAuto(array("Server", "Apache, IIS"));
 	$cv->entryAddAuto(array("Browser", "Mozilla Firefox, Internet Explorer, Google Chrome, Google Chromium, Netscape Navigator, Opera"));
+	$cv->entryAddAuto(array("Web Competence", "Responsive Web Design (RWD), FrontEnd Developing, BackEnd Developing"));
 	$cv->entryAddBlankRow();
-	$cv->entryAddAuto(array("General", "RegExp"));
-	$cv->entryAddAuto(array("Version Control System", "Git"));
+	$cv->entryAddAuto(array("General", "Regular Expressions"));
+	$cv->entryAddAuto(array("Version Control System", "GitHub"));
 	$cv->entryAddAuto(array("UML Diagram", "Star UML"));
 	$cv->entryAddAuto(array("Graphic", "Photoshop CS6 and previous"));
 	$cv->entryAddAuto(array("Electronic", "PSpice analog circuit and digital logic simulation"));
