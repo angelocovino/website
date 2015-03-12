@@ -44,6 +44,7 @@
 				<span class="cv_skill">The Challenge</span>Build a pure HTML/CSS one page site for a future development, without functional backend, no fixed style guide<br />
 				<span class="cv_skill">Role</span>Front-End WebDeveloper<br />
 				<span class="cv_skill">Technique</span>HTML5, CSS3
+				<span class="cv_skill">Git</span><a href="//github.com/angelocovino/website/tree/master/portfolio_data/liferesidential">angelocovino/website</a>
 			</p>
 			<p class="p_img">
 				<a target="_blank" href="portfolio_data/liferesidential/index.html">
